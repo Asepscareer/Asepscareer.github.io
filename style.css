@@ -571,7 +571,7 @@ header nav.nav-is-visible span.stretchy-nav-bg{
 	color: #fff;
 	font-weight: 600;
 	text-transform: uppercase;
-	margin: 0 0 45px;
+	margin: 45px 0 45px;
 	padding: 0;
 }
 .about .resume .languages{
@@ -668,8 +668,8 @@ header nav.nav-is-visible span.stretchy-nav-bg{
 }
 
 .about .skills .item{
-	flex-basis: 33.33%;
-	max-width: 33.33%;
+	flex-basis: 93.33%;
+	max-width: 93.33%;
 	padding: 0 15px;
 	margin-bottom: 50px;
 }
@@ -684,7 +684,7 @@ header nav.nav-is-visible span.stretchy-nav-bg{
 }
 
 .about .skills .item .skill-bar{
-	height: 1px;
+	height: 2px;
 	background-color: #555;
 	position: relative;
 }
