@@ -558,6 +558,30 @@ header nav.nav-is-visible span.stretchy-nav-bg{
 	padding: 0 15px;
 }
 
+/* ... TAMBAHAN ... */
+
+.about .resume .interest{
+	flex-basis: 50%;
+	max-width: 50%;
+	padding: 0 15px;
+}
+.about .resume .section-title h3{
+	font-size: 24px;
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin: 0 0 45px;
+	padding: 0;
+}
+.about .resume .languages{
+	flex-basis: 50%;
+	max-width: 50%;
+	padding: 0 15px;
+}
+
+/* ... TAMBAHAN ... */
+
 .about .resume .details .card{
 	padding-left: 40px;
 	position: relative;
