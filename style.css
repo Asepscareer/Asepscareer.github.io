@@ -684,7 +684,7 @@ header nav.nav-is-visible span.stretchy-nav-bg{
 }
 
 .about .skills .item .skill-bar{
-	height: 2px;
+	height: 5px;
 	background-color: #555;
 	position: relative;
 }
@@ -703,7 +703,7 @@ header nav.nav-is-visible span.stretchy-nav-bg{
 	left: 100%;
 	border: 1px solid #dda51e;
 	top: -38px;
-	width: 44px;
+	width: 100px;
 	margin-left: -22px;
 	text-align: center;
 	padding: 4px 0;
